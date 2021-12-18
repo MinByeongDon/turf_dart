@@ -120,9 +120,9 @@ Most of the implementation is a direct translation from [turf.js](https://github
 
 ### META
 - [ ] coordAll
-- [ ] coordEach
+- [x] coordEach
 - [ ] coordReduce
-- [ ] featureEach
+- [x] featureEach
 - [ ] featureReduce
 - [ ] flattenEach
 - [ ] flattenReduce
@@ -130,9 +130,9 @@ Most of the implementation is a direct translation from [turf.js](https://github
 - [ ] getCoords
 - [ ] getGeom
 - [ ] getType
-- [ ] geomEach
+- [x] geomEach
 - [ ] geomReduce
-- [ ] propEach
+- [x] propEach
 - [ ] propReduce
 - [ ] segmentEach
 - [ ] segmentReduce
