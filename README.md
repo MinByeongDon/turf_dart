@@ -127,7 +127,7 @@ Most of the implementation is a direct translation from [turf.js](https://github
 - [ ] flattenEach
 - [ ] flattenReduce
 - [ ] getCoord
-- [ ] getCoords
+- [x] getCoords(https://github.com/dartclub/turf_dart/blob/master/lib/invariant.dart)
 - [ ] getGeom
 - [ ] getType
 - [ ] geomEach
